@@ -8,4 +8,4 @@ software application through various software development life cycles and techni
 
 Our clinet wanted a software desktop application that ran within a linux operating system that inspected and analyzed network protocols and executable files
 within system computer networks. The program required to be able to conduct static and dynamic analysis on binary files. The program integrates the ***Radare2***
-software api extraction tool and was to support other different software api plugins. The application also supports a database by intergrating the open-source softare ***MongoDB***. 
+software api extraction tool and was to support other different software api plugins. The application also supports a database by intergrating the open-source database software; ***MongoDB***. 
