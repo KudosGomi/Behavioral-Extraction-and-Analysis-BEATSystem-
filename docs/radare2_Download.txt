@@ -1,0 +1,7 @@
+** radare2 version used: 3.9.0
+Download radare2
+
+Must clone this repository: https://github.com/radareorg/radare2
+
+Once it has installed, run this next command inside the project:
+sys/install.sh

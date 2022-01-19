@@ -1,0 +1,7 @@
+This is required to have the database working
+(Must have mongodb already installed and created a directory called data)
+Steps to turn on local database:
+* Open terminal
+* Run command: mongod --dbpath ./data/
+
+Now the local database should be running.

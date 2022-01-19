@@ -1,0 +1,6 @@
+pymongo version used: 3.9.0
+
+Dependency for python to connect to mongoDB
+
+To install:
+* python3 -m pip install pymongo

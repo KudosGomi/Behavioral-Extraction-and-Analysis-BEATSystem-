@@ -1,0 +1,12 @@
+** Mongo shell version used: v4.2.1
+** To download mongoDB and get it working
+Link: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-debian/
+
+To install:
+* wget -qO - https://www.mongodb.org/static/pgp/server-4.2.asc | sudo apt-key add -
+
+* echo "deb http://repo.mongodb.org/apt/debian buster/mongodb-org/4.2 main" | sudo tee /etc/apt/sources.list.d/mongodb-org-4.2.list
+
+* sudo apt-get update
+
+* sudo apt-get install -y mongodb-org
